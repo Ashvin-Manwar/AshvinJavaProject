@@ -1,7 +1,6 @@
 package BitwiseOperator;
 
 public class NoOfDigits {
-
         public static void main(String[] args) {
             int n = 10;
             int b = 2;

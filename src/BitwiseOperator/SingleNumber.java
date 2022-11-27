@@ -1,9 +1,9 @@
-package Arrays;
+package BitwiseOperator;
 
 public class SingleNumber {
     public static void main(String[] args) {
-//        int[] arr={2,3,3,4,2,6,4};
-        int[] arr={2,2,3,2,5};//ans 3// tyry to solve this
+        int[] arr={2,3,3,4,2,6,4};
+//        int[] arr={2,2,3,2,5};//ans 3// tyry to solve this
         System.out.println(ans(arr));//ans 6
     }
     private static int ans(int[] arr){
